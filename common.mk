@@ -92,3 +92,6 @@ PRODUCT_PACKAGES += \
 # WiFi
 PRODUCT_PACKAGES += \
     WifiOverlay
+
+# Pixel Offline charging animation
+TARGET_INCLUDE_PIXEL_CHARGER := true
